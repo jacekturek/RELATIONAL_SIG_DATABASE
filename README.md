@@ -1,4 +1,5 @@
 # RELATIONAL_SIG_DATABASE
+# SOCIAL SIGNALS FOR SEO
 Social signals explained in a database / database design and some data
 Signals can have a form of #...
 ##

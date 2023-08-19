@@ -5,7 +5,7 @@ Signals can have a form of #...
 Tables:
 #
 Signal:
-attributes: signal code
+attributes: signal code(char(5), cheated (bool))
 #
 Who:
 attributes: description (char(25)), where(char(30))

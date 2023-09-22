@@ -2,6 +2,9 @@
 # SOCIAL SIGNALS FOR SEO
 Social signals explained in a database / database design and some data
 Signals can have a form of #...
+new form -[desc]
+e.g. #b = -beta
+
 ##
 Databases (realtional) are designed hierarchically.
 Here I outline TABLES, RELATIONS, ...

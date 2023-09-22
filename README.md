@@ -3,6 +3,9 @@
 Social signals explained in a database / database design and some data
 Signals can have a form of #...
 ##
+Databases (realtional) are designed hierarchically.
+Here I outline TABLES, RELATIONS, ...
+##
 Tables:
 #
 Signal:

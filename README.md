@@ -1,10 +1,8 @@
 # RELATIONAL_SIG_DATABASE
 # SOCIAL SIGNALS FOR SEO
-Social signals explained in a database / database design and some data
-Signals can have a form of #...
-#
-#
-new form -[desc]
+Social signals collected in a database / database design and some data
+
+stored like -[desc]
 e.g. #b = -beta
 
 ##
@@ -13,18 +11,4 @@ Here I outline TABLES, RELATIONS, ...
 Descriptuon is based on attributes, operators of relational language.
 ##
 Tables:
-#
-Signal:
-attributes: signal code(char(5), cheated (bool))
-#
-Who:
-attributes: description (char(25)), where(char(30))
-#
-Relations:
-Signal - 1...* - Who
-#
-Where from the signal:
-attributes: who(description), where (char(30))
-#
-Relations:
-Who 1 - 1 Where from the signal
+table signal is <name, where> / types of data are acoordingly

@@ -12,7 +12,7 @@ Descriptuon is based on attributes, operators of relational language.
 >Tables: table signal is <name, where> / types of data are acoordingly
 
 signal <name, where> <br>
-who <where, name_like>
+who <where, name_like> <br>
 frequency <signal_name, where, rate_0_100>
 
 tables connection: 

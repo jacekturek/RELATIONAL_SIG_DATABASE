@@ -11,7 +11,8 @@ Descriptuon is based on attributes, operators of relational language.
 ##
 >Tables: table signal is <name, where> / types of data are acoordingly
 
-signal <name, where> <\br>
+signal <name, where>
+
 who <where, name_like>
 
 relation: on key WHERE signal and who

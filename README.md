@@ -15,3 +15,5 @@ signal <name, where> <br>
 who <where, name_like>
 
 relation: ***on key WHERE signal and who***
+<br>
+These relations are build consistently in order to gain information.

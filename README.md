@@ -13,8 +13,11 @@ Descriptuon is based on attributes, operators of relational language.
 
 signal <name, where> <br>
 who <where, name_like>
+frequency <signal_name, where, rate_0_100>
 
-tables connection: ***on key WHERE signal and who***
+tables connection: 
+***on key WHERE signal and who***
+?
 
 <br>
 These relations are build consistently in order to gain information.

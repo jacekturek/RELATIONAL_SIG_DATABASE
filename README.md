@@ -17,7 +17,7 @@ frequency <signal_name, where, rate_0_100>
 
 tables connection: 
 ***on key WHERE signal and who***
-?
+***on key NAME signal and frequency***
 
 <br>
 These relations are build consistently in order to gain information.

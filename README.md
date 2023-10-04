@@ -10,5 +10,5 @@ Databases (realtional) are designed hierarchically.
 Here I outline TABLES, RELATIONS, ...
 Descriptuon is based on attributes, operators of relational language.
 ##
-Tables:
-table signal is <name, where> / types of data are acoordingly
+[!TIP]
+Tables: table signal is <name, where> / types of data are acoordingly

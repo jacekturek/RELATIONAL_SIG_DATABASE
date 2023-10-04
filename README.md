@@ -16,7 +16,7 @@ who <where, name_like> <br>
 frequency <signal_name, where, rate_0_100>
 
 tables connection: 
-***on key WHERE signal and who***
+***on key WHERE signal and who*** <br>
 ***on key NAME signal and frequency***
 
 <br>

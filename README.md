@@ -5,6 +5,10 @@ Social signals collected in a database / database design and some data
 > stored like -[desc] e.g. #b = -beta
 
 ##
+interesting about SEO:
+- https://www.wordstream.com/blog/ws/2022/10/20/social-signals-for-seo
+
+##
 Databases (realtional) are designed hierarchically.
 Here I outline TABLES, RELATIONS, ...
 Descriptuon is based on attributes, operators of relational language.

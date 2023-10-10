@@ -7,3 +7,4 @@ Requirements Gathering and Analysis:
 - getting information about SEO and social signals
 - makeing some statistical research (how much different signals are on the page)
 - gathering ideas on how to present social signals for seo nowadays
+- requirement is to check the signals that could be used for SEO

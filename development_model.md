@@ -1,4 +1,5 @@
-This is a new project with a small scope
+This is a new project with waterfall model
+
 I propose spiral model
 
 in the planning phase:

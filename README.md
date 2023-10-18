@@ -2,7 +2,8 @@
 # SOCIAL SIGNALS FOR SEO
 Social signals collected in a database / database design and some data
 
-> stored like -[desc] e.g. #b = -beta
+> ~~stored like -[desc] e.g. #b = -beta~~
+> form 1 ... 10 (this is the name of the signal)
 
 ##
 interesting about SEO:

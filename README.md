@@ -1,6 +1,7 @@
 # RELATIONAL_SIG_DATABASE
 # SOCIAL SIGNALS FOR SEO
 Social signals collected in a database / database design and some data
+This project can prove SEO is real and the articles that are avaiable contain the proper knowledge
 
 > ~~stored like -[desc] e.g. #b = -beta~~
 > form 1 ... 10 (this is the name of the signal)

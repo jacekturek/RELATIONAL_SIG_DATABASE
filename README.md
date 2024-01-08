@@ -9,8 +9,8 @@ The database can collect some exaples of social media SEO signals, and their exp
 Will be here shown, how it looks like in selected pages, randomly (more or less).
 
 ##
-Social signals collected in a database / database design and some data
-This project can prove SEO is real and the articles that are avaiable contain the proper hints
+Social signals collected in the database as signals RANK (1-10) this is the meaning of the signal.
+In the aforementioned articles, any interaction (user) with the page is an important signal in the of social media content.
 
 > ~~stored like -[desc] e.g. #b = -beta~~
 > form 1 ... 10 (this is the name of the signal)

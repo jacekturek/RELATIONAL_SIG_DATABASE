@@ -1,5 +1,14 @@
 # RELATIONAL_SIG_DATABASE
 # SOCIAL SIGNALS FOR SEO
+Many sites can be interesting in the context of SEO, as interaction with these pages is 
+an important signal in the google articles about how to SEO with their conception of assesing pages and their content.
+
+##
+
+The database can collect some exaples of social media SEO signals, and their explanations.
+Will be here shown, how it looks like in selected pages, randomly (more or less).
+
+##
 Social signals collected in a database / database design and some data
 This project can prove SEO is real and the articles that are avaiable contain the proper hints
 

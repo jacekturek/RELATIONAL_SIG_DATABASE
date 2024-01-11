@@ -19,11 +19,14 @@ In the aforementioned articles, any interaction (user) with the page is an impor
 interesting about SEO:
 - https://www.wordstream.com/blog/ws/2022/10/20/social-signals-for-seo
 
+This project will show the interaction with selected Social Media content
+Each such interaction is SEO accodring to the article.
+
 ##
 > The relational model represents how data is stored in Relational Databases.  
 ##
->Tables: table signal is <name, where> / types of data are acoordingly
 > A relational database consists of a collection of tables, (tutorial)
 
 The table with signals looks like this:
 
+(img here)

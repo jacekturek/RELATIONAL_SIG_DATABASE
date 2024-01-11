@@ -20,20 +20,10 @@ interesting about SEO:
 - https://www.wordstream.com/blog/ws/2022/10/20/social-signals-for-seo
 
 ##
-This database reveals the process of SEO in some examples. Databases (realtional) are designed hierarchically.
-Here I outline TABLES, RELATIONS, ...
-Descriptuon is based on attributes, operators of relational language.
+> The relational model represents how data is stored in Relational Databases.  
 ##
 >Tables: table signal is <name, where> / types of data are acoordingly
+> A relational database consists of a collection of tables, (tutorial)
 
-signal <name, where> <br>
-who <where, name_like> <br>
-frequency <signal_name, where, rate_0_100>
+The table with signals looks like this:
 
-tables connection: 
-<br>
-***on key WHERE signal and who*** <br>
-***on key NAME signal and frequency***
-
-<br>
-These relations are build consistently in order to gain information.

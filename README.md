@@ -8,6 +8,8 @@ interesting about SEO:
 This project will show the interaction with selected Social Media content
 Each such interaction is SEO accodring to the article.
 
+> Social signals are essentially any interactions with a social media profile or its content.
+
 The database contains collected data and the examples based on the article.
 Rest of the database is confidential and is about private project.
 

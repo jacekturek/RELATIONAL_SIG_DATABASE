@@ -20,4 +20,4 @@ Rest of the database is confidential and is about private project.
 
 The table with signals looks like this:
 
-(img here)
+![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/e7fe7324-008a-4584-ac83-9533c507dd0e)

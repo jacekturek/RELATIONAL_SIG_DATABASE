@@ -32,6 +32,7 @@ Another table can be where a signal comes from, and how much of it is working on
 What kind of interaction it is:
 
 > the tables can tell about social media enagement (important for SEO) /article/
+> 
 > [WHERE] can be understood as what kind of place it takes
 
 ![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/1757b56d-b46b-4bf8-a100-478dbc14e96b)

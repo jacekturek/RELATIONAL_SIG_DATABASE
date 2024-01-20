@@ -28,3 +28,9 @@ The prcoess SEO doesn't know it but this is the way to collect them more.
 Another table can be where a signal comes from, and how much of it is working on my page:
 
 ![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/c1b88abe-9467-47a5-b385-f7681b53a280)
+
+What kind of interaction it is:
+
+> the tables can tell about social media enagement (important for SEO) /article/
+
+![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/1757b56d-b46b-4bf8-a100-478dbc14e96b)

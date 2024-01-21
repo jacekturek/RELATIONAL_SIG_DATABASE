@@ -36,3 +36,7 @@ What kind of interaction it is:
 > [WHERE] can be understood as what kind of place it takes
 
 ![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/1757b56d-b46b-4bf8-a100-478dbc14e96b)
+
+Some shares collected into a table (identity, see the table above):
+
+

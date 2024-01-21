@@ -39,4 +39,5 @@ What kind of interaction it is:
 
 Some shares collected into a table (identity, see the table above):
 
+![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/4cb5cd42-9dc2-4732-a370-acdaa5d1af89)
 

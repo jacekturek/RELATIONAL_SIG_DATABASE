@@ -2,7 +2,7 @@
 # SOCIAL SIGNALS FOR SEO
 
 ##
-interesting about SEO:
+ℹ️ interesting about SEO:
 - https://www.wordstream.com/blog/ws/2022/10/20/social-signals-for-seo
 
 This project will show the interaction with selected Social Media content
@@ -14,9 +14,9 @@ The database contains collected data and the examples based on the article.
 Rest of the database is confidential and is about private project.
 
 ##
-> The relational model represents how data is stored in Relational Databases.  
+> ℹ️ The relational model represents how data is stored in Relational Databases.  
 ##
-> A relational database consists of a collection of tables, (tutorial)
+> ℹ️ A relational database consists of a collection of tables, (tutorial)
 
 The table with signals looks like this:
 

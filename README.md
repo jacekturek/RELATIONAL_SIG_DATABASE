@@ -2,7 +2,7 @@
 # SOCIAL SIGNALS FOR SEO
 
 ##
-ℹ️ interesting about SEO:
+> ℹ️ interesting about SEO:
 - https://www.wordstream.com/blog/ws/2022/10/20/social-signals-for-seo
 
 This project will show the interaction with selected Social Media content

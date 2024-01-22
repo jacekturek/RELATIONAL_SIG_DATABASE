@@ -38,6 +38,10 @@ Some shares collected into a table (identity, see the table above):
 
 ![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/4cb5cd42-9dc2-4732-a370-acdaa5d1af89)
 
+Some data, and information what it is, some information, and typical data (date, if it is of me).
+
+##
+
 > social signals in SEO, and engagement - antother table
 > [WHERE] here is more literal
 
@@ -45,3 +49,4 @@ Some shares collected into a table (identity, see the table above):
 
 KONTOTUSK* - I am wiriting this as an oppostion micro blogger
 
+In the above table: where you can see signals, and where it can come from.

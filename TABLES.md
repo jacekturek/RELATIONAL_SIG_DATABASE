@@ -30,6 +30,10 @@ What kind of interaction it is:
 
 ![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/1757b56d-b46b-4bf8-a100-478dbc14e96b)
 
+Here who is coming into an account, the data, and in what purpose it is sent.
+
+##
+
 Some shares collected into a table (identity, see the table above):
 
 ![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/4cb5cd42-9dc2-4732-a370-acdaa5d1af89)

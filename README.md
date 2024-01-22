@@ -20,3 +20,8 @@ The category of the data is SEO signals in social media.
 ##
 > ℹ️ The relational model represents how data is stored in Relational Databases.
 > in the following project I will show data and tables, relations and other pieces of database.
+
+What can be found in the database:
+
+* signals
+* data that is coming to the account

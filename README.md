@@ -23,8 +23,8 @@ The category of the data is SEO signals in social media.
 
 What can be found in the database:
 
-* signals
-* data that is coming to the account
+* SEO signals
+* interactions
 * social platforms and their categorized signals
 * rankings
 * etc.

@@ -1,3 +1,5 @@
+In the following files (TABLES etc...) the purpose of the database is presented.
+
 ##
 > ℹ️ A relational database consists of a collection of tables, (tutorial)
 

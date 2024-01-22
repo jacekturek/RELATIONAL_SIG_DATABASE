@@ -8,7 +8,7 @@ The table with signals looks like this:
 ![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/e7fe7324-008a-4584-ac83-9533c507dd0e)
 
 These signals (according to the article can be for different purpose.
-In the language of the database the signal has
+In the language of the database the signal has information where it is from (whithout here saying who is sending)
 
 The prcoess SEO doesn't know it but this is the way to collect them more.
 

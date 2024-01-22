@@ -15,7 +15,7 @@ Rest of the database is confidential and is about private project.
 
 > ℹ️ Data is statically raw and unprocessed information. 
 
-The cathegory of the data is SEO signals in social media.
+The category of the data is SEO signals in social media.
 
 ##
 > ℹ️ The relational model represents how data is stored in Relational Databases.  

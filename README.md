@@ -25,3 +25,6 @@ What can be found in the database:
 
 * signals
 * data that is coming to the account
+* social platforms and their categorized signals
+* rankings
+* etc.

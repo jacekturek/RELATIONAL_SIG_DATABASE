@@ -16,6 +16,8 @@ Another table can be where a signal comes from, and how much of it is working on
 
 ![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/c1b88abe-9467-47a5-b385-f7681b53a280)
 
+Here - a nwestpaper and how much of it I see in my account.
+
 What kind of interaction it is:
 
 > the tables can tell about social media enagement (important for SEO) /article/

@@ -13,6 +13,10 @@ Each such interaction is SEO accodring to the article.
 The database contains collected data and the examples based on the article.
 Rest of the database is confidential and is about private project.
 
+> ℹ️ Data is statically raw and unprocessed information. 
+
+The cathegory of the data is SEO signals in social media.
+
 ##
 > ℹ️ The relational model represents how data is stored in Relational Databases.  
 ##

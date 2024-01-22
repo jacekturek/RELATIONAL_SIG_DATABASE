@@ -10,6 +10,8 @@ The table with signals looks like this:
 These signals (according to the article can be for different purpose.
 In the language of the database the signal has information where it is from (whithout here saying who is sending)
 
+##
+
 The prcoess SEO doesn't know it but this is the way to collect them more.
 
 Another table can be where a signal comes from, and how much of it is working on my page:
@@ -17,6 +19,8 @@ Another table can be where a signal comes from, and how much of it is working on
 ![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/c1b88abe-9467-47a5-b385-f7681b53a280)
 
 Here - a nwestpaper and how much of it I see in my account.
+
+##
 
 What kind of interaction it is:
 

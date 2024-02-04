@@ -5,6 +5,8 @@
 > ℹ️ interesting about SEO:
 - https://www.wordstream.com/blog/ws/2022/10/20/social-signals-for-seo
 
+> The goal is to show how it looks in practice in the social media pages.
+
 This project will show the interaction with selected Social Media content
 Each such interaction is SEO accodring to the article.
 

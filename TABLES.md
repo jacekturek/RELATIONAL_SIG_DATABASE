@@ -50,3 +50,4 @@ Some data, and information what it is, some information, and typical data (date,
 KONTOTUSK* - I am wiriting this as an oppostion micro blogger
 
 In the above table: where you can see signals, and where it can come from.
+:) This is the data.

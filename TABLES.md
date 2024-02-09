@@ -51,3 +51,10 @@ KONTOTUSK* - I am wiriting this as an oppostion micro blogger
 
 In the above table: where you can see signals, and where it can come from.
 :) This is the data.
+
+##
+
+Here you see the rankings of some pages (in situations):
+
+![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/6907751b-60a4-4692-872d-34e5181729a0)
+

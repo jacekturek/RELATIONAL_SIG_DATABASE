@@ -15,7 +15,7 @@ Obtain the data:
 > ℹ️ The relational model represents how data is stored in Relational Databases.
 > in the following project I will show data and tables, relations and other pieces of database.
 
-What can be found in the database:
+What can be found in the data:
 
 * SEO signals
 * interactions

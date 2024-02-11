@@ -1,6 +1,3 @@
-# RELATIONAL_SIG_DATABASE
-# SOCIAL SIGNALS FOR SEO
-
 # The SEO social signals (article)
 
 > ℹ️ interesting about SEO:

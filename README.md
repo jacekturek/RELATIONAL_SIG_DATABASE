@@ -1,7 +1,8 @@
 # RELATIONAL_SIG_DATABASE
 # SOCIAL SIGNALS FOR SEO
 
-##
+# The SEO social signals (article)
+
 > ℹ️ interesting about SEO:
 - https://www.wordstream.com/blog/ws/2022/10/20/social-signals-for-seo
 
@@ -19,7 +20,8 @@ Rest of the database is confidential and is about private project.
 
 The category of the data is SEO signals in social media.
 
-##
+# The relational database
+
 > ℹ️ The relational model represents how data is stored in Relational Databases.
 > in the following project I will show data and tables, relations and other pieces of database.
 

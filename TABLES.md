@@ -47,7 +47,7 @@ Some data, and information what it is, some information, and typical data (date,
 
 ![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/905fe13e-8970-4c9b-9553-6d83561e6610)
 
-KONTOTUSK* - I am wiriting this as an oppostion micro blogger
+KONTOTUSK* - I am wiriting this as an oppostion micro blogger and prankster
 
 In the above table: where you can see signals, and where it can come from.
 :) This is the data.

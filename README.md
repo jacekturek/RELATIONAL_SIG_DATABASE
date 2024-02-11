@@ -20,5 +20,5 @@ What can be found in the data:
 * SEO signals
 * interactions
 * social platforms and their categorized signals
-* rankings
+* rankings of the pages
 * etc.

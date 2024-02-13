@@ -31,7 +31,8 @@ The keys and relations:
 
 # Other relations
 
-In such a table 'PAGE' should be UNIQUE:
+In such a table the 'PAGE' should be UNIQUE:
 
-![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/ad58dccb-ec27-48b7-add3-01c9f8e7c79c)
+![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/d94bd8a2-1adb-49f6-9e9f-6c00afddc3da)
+
 

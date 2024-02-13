@@ -1,5 +1,4 @@
-System design:
-Requirements:
+# System design:
 
 * components: DBMS, (SQL Server MS Windows)
 * interface SQL Database

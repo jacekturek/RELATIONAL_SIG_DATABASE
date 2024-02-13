@@ -50,3 +50,9 @@ Category of interactions, and the media:
 Check the reputation of the pages in your profile:
 
 ![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/b83a716c-cd53-41eb-93e3-9e4b53944fa8)
+
+##
+
+Rewarded content:
+
+![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/42e9b389-54b7-4e60-8548-d64bb513bea9)

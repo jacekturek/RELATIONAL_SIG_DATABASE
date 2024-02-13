@@ -1,5 +1,11 @@
-This is a new project with waterfall model (https://www.geeksforgeeks.org/software-engineering-classical-waterfall-model/)
-- Waterfall model is possible
-I will describe the fearures of the waterfall model in the context of this project.
+# The waterfall deveoplement model:
 
-> Waterfall model is good for these projects, because it is simple to follow in the design process.
+* sequential approach
+* quality control
+
+# The model:
+
+* requirements: check the SEO system in the article "Social signals in SEO"
+* implement the data in the database
+* the tables reflect the data needed for SEO in social media
+* test: SEO, and data

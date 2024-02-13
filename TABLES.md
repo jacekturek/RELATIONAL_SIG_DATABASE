@@ -44,3 +44,9 @@ Here you see the rankings of some pages (in situations):
 Category of interactions, and the media:
 
 ![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/2b2b3b72-fd1e-4562-adb3-9c8f5ce9c4a0)
+
+##
+
+Check the reputation of the pages in your profile:
+
+![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/b83a716c-cd53-41eb-93e3-9e4b53944fa8)

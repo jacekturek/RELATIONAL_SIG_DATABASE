@@ -58,3 +58,9 @@ Here you see the rankings of some pages (in situations):
 
 ![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/6907751b-60a4-4692-872d-34e5181729a0)
 
+##
+
+Category of interactions, and the media:
+
+![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/b57fc977-b566-4cc7-851b-59380087f262)
+

@@ -28,3 +28,10 @@ Similarly in other tables like:
 The keys and relations:
 
 ![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/1fa5a03d-633a-4dce-b915-ca80571cd654)
+
+# Other relations
+
+In such a table 'PAGE' should be UNIQUE:
+
+![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/ad58dccb-ec27-48b7-add3-01c9f8e7c79c)
+

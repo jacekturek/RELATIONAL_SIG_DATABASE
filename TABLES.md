@@ -53,6 +53,6 @@ Check the reputation of the pages in your profile:
 
 ##
 
-Rewarded content:
+Rewarded content by EAT algorithm (expertise/authority/trust):
 
 ![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/42e9b389-54b7-4e60-8548-d64bb513bea9)

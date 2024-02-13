@@ -16,7 +16,8 @@ The prcoess SEO doesn't know it but this is the way to collect them more.
 
 Another table can be where a signal comes from, and how much of it is working on my page:
 
-![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/c1b88abe-9467-47a5-b385-f7681b53a280)
+![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/ad4bdd26-8292-4994-bb00-12f5e5677dac)
+
 
 Here - a nwestpaper and how much of it I see in my account.
 

@@ -35,6 +35,13 @@ In the above table: where you can see signals, and where it can come from.
 
 ##
 
+Signals and identity, popularity, reliability:
+
+![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/29449eea-1aad-4654-959b-388a8b3a7a01)
+
+
+##
+
 Here you see the rankings of some pages (in situations):
 
 ![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/6907751b-60a4-4692-872d-34e5181729a0)

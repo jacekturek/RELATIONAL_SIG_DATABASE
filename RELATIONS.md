@@ -34,3 +34,9 @@ The keys and relations:
 In such a table the 'PAGE' should be UNIQUE:
 
 ![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/d94bd8a2-1adb-49f6-9e9f-6c00afddc3da)
+
+##
+Here the candidate key is the entire row:
+
+![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/80e8a3d8-9860-4070-802e-a7bea8bbca52)
+

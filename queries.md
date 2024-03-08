@@ -8,5 +8,5 @@ SELECT DISTINCT [RANKING IN ME]
   
 ![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/c2a3e9de-c2b3-4aca-9c94-1bb6b5f9e1f8)
 
-> The number of attributes (cardinality) and number of rows (degree) is an obvious feature of the relational database.
+> ℹ️ The number of attributes (cardinality) and number of rows (degree) is an obvious feature of the relational database.
 > Here these two numbers prove to be enough to achieve the understanding of SEO data in social media pages.

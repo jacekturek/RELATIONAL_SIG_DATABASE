@@ -17,6 +17,8 @@ SELECT
 > table signal_perc
 > selction condition who = 'GW'
 
+This command is from SQL server (programm):
+
 SELECT TOP (1000) [where_from]
       ,[perc]
       ,[signal_name]

@@ -52,6 +52,8 @@ Only to mention:
 
 # Projection
 
+> some attributes
+
 ![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/faf00477-68be-4cdc-a74d-1aa7af3809c5)
 
 SELECT TOP (1000) [WHAT]

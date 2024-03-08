@@ -32,3 +32,11 @@ Thinking about selection condition:
 > it can be other comparison e.g. "<"
 > 
 > 🎓 obviously there is no signal < 2 (coming from the selected source)
+
+Including the logical operators:
+
+SELECT [SIGNAL]
+  FROM [SEO_SIG_IN_SOC_MEDIA].[dbo].[ENGAGEMENT]
+  WHERE [ENAGEMENT] = 'IDENTITY' OR [SIGNAL] = '2'
+
+  ![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/745194cc-3fd5-417f-a9a1-436f67269fa6)

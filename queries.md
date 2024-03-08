@@ -30,4 +30,5 @@ SELECT TOP (1000) [where_from]
 
 Thinking about selection condition:
 > it can be other comparison e.g. "<"
+> 
 > 🎓 obviously there is no signal < 2 (coming from the selected source)

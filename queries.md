@@ -12,6 +12,8 @@ SELECT DISTINCT [RANKING IN ME]
 
 > Here these two numbers prove to be enough to achieve the understanding of SEO data in social media pages.
 
+# Selection
+
 Select with selection condition, here an example
 SELECT
 > ✍️table signal_perc
@@ -47,3 +49,13 @@ Only to mention:
 > ✏️ SELECT cond from (result from SELECT conditon (TABLE)) - unary operation
 > 
 > or the number of rows from select, which is: 0 < select < number of rows
+
+# Projection
+
+![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/faf00477-68be-4cdc-a74d-1aa7af3809c5)
+
+SELECT TOP (1000) [WHAT]
+  FROM [SEO_SIG_IN_SOC_MEDIA].[dbo].[EAT ALGORITHM]
+
+![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/4f3a89dc-5b06-4471-bfa4-ecc1cd3259b7)
+

@@ -14,8 +14,9 @@ SELECT DISTINCT [RANKING IN ME]
 
 Select with selection condition, here an example
 SELECT
-> table signal_perc
-> selction condition who = 'GW'
+> ✍️table signal_perc
+> 
+> ✍️selction condition who = 'GW'
 
 This command is from SQL server (programm):
 

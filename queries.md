@@ -28,3 +28,6 @@ SELECT TOP (1000) [where_from]
   
 ![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/39f03a50-65cd-44f8-b5cb-2a76e9b2a36e)
 
+Thinking about selection condition:
+> it can be other comparison e.g. "<"
+> 🎓 obviously there is no signal < 2 (coming from the selected source)

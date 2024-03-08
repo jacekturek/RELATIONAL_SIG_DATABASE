@@ -46,7 +46,7 @@ SELECT [SIGNAL]
 Only to mention:
 > nested select operator (in theory):
 > 
-> ✏️ SELECT cond from (result from SELECT conditon (TABLE)) - unary operation
+> S condition (S conditon (TABLE)) - unary operation
 > 
 > or the number of rows from select, which is: 0 < select < number of rows
 

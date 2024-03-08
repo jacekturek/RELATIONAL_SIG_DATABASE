@@ -42,5 +42,8 @@ SELECT [SIGNAL]
 ![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/745194cc-3fd5-417f-a9a1-436f67269fa6)
 
 Only to mention:
-> nested select operator (in theory) SELECT cond from (result from SELECT conditon (TABLE))
+> nested select operator (in theory):
+> 
+> ❗SELECT cond from (result from SELECT conditon (TABLE)) - unary operation
+> 
 > or the number of rows from select 0 < select < number of rows

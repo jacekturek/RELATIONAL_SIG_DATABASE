@@ -20,7 +20,7 @@ SELECT
 > 
 > ✍️selction condition who = 'GW'
 
-This command is from SQL server (programm):
+This command is from SQL server programm, showing the generated command:
 
 SELECT TOP (1000) [where_from]
       ,[perc]
@@ -31,11 +31,11 @@ SELECT TOP (1000) [where_from]
 ![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/39f03a50-65cd-44f8-b5cb-2a76e9b2a36e)
 
 Thinking about selection condition:
-> it can be other comparison e.g. "<"
+> it can be any other comparison e.g. "<" etc.
 > 
 > 🎓 obviously there is no signal < 2 (coming from the selected source)
 
-Including the logical operators:
+Including the logical operators (OR, AND):
 
 SELECT [SIGNAL]
   FROM [SEO_SIG_IN_SOC_MEDIA].[dbo].[ENGAGEMENT]
@@ -52,7 +52,7 @@ Only to mention:
 
 # Projection
 
-> some attributes
+> some attributes from a table, which can show some important conclusions:
 
 ![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/faf00477-68be-4cdc-a74d-1aa7af3809c5)
 

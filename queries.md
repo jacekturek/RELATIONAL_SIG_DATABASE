@@ -46,4 +46,4 @@ Only to mention:
 > 
 > ✏️ SELECT cond from (result from SELECT conditon (TABLE)) - unary operation
 > 
-> or the number of rows from select 0 < select < number of rows
+> or the number of rows from select, which is: 0 < select < number of rows

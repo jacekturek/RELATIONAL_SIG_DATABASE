@@ -78,3 +78,12 @@ SELECT TOP (1000) [signal_name]
 > PERC how much i can see it on my page
 
 Interesting queries.
+
+# Intersection and minus
+
+> In short:
+
+Intersection of the above relations is the same as the union (the disctinct signals are the same).
+
+Minus will in obvious way return 0 (empty).
+

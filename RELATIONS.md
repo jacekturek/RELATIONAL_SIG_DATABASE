@@ -19,7 +19,7 @@ Similarly in other tables like:
 * signals_perc, which show how much of the signal is in my page (in social media)
 * the same unique compound key can be set
 
-# Relation (foreign key)
+# Relation (foreign keys)
 
 > With that I can combine the two tables with a relation based on these keys.
 

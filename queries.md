@@ -87,3 +87,10 @@ Intersection of the above relations is the same as the union (the disctinct sign
 
 Minus will in obvious way return 0 (empty).
 
+# Other
+
+> Rename is for building more compilcated queries
+> 
+> Carthesian product will build bigger tuples / tables
+
+This type of operation is not needed in this example.

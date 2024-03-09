@@ -73,3 +73,8 @@ SELECT TOP (1000) [signal_name]
 
 ![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/fb790d89-954b-48d1-a019-a283fcfe42df)
 
+> ENGAGEMENT is saying what is the purpose of the signal
+> 
+> PERC how much i can see it on my page
+
+Interesting queries.

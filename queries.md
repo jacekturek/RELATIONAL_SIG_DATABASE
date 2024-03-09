@@ -61,3 +61,15 @@ SELECT TOP (1000) [WHAT]
 
 ![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/4f3a89dc-5b06-4471-bfa4-ecc1cd3259b7)
 
+# Union (SQL)
+
+SELECT TOP (1000) [signal_name]
+  FROM [SEO_SIG_IN_SOC_MEDIA].[dbo].[SIGNALS_PERC]
+  
+  UNION 
+
+  SELECT TOP (1000) [SIGNAL]
+  FROM [SEO_SIG_IN_SOC_MEDIA].[dbo].[ENGAGEMENT]
+
+![image](https://github.com/jacekturek/RELATIONAL_SIG_DATABASE/assets/62720909/fb790d89-954b-48d1-a019-a283fcfe42df)
+

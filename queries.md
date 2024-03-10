@@ -1,5 +1,7 @@
 # Do some relational math - queries
 
+Reilational language SQL can enable generating some query data for analysing what kind of information can be seen in the databse. The amount of data is not big, it can be developed but the database doesn't have to include a lot of data to explain the SEO process.
+
 Relations = tables have attributes:
 SELECT DISTINCT will show RANKINGS (IN ME) in the database:
 

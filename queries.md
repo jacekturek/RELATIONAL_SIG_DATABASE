@@ -12,7 +12,7 @@ SELECT DISTINCT [RANKING IN ME]
 
 > ℹ️ The number of attributes (cardinality) and number of rows (degree) is an obvious feature of the relational database.
 
-> Here these two numbers prove to be enough to achieve the understanding of SEO data in social media pages.
+> 📒 Here these two numbers prove to be enough to achieve the understanding of SEO data in social media pages.
 
 # Selection
 
